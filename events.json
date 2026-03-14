@@ -1,0 +1,37 @@
+{
+    "2026-02-06": [],
+    "2026-03-13": [
+        {
+            "id": "2d8329e5-8ed3-4903-848a-433f99edc72a",
+            "title": "nộp báo cáo",
+            "date": "2026-03-13",
+            "time": "14:00",
+            "description": "410 nhà tn nộp bài tiệu luận"
+        },
+        {
+            "id": "4b210d25-54aa-47fd-8098-a2cf5d965150",
+            "title": "đi in báo cáo",
+            "date": "2026-03-13",
+            "time": "15:00",
+            "description": ""
+        }
+    ],
+    "2026-03-12": [
+        {
+            "id": "7ec73983-57d5-4442-ae76-fa63e873924e",
+            "title": "nộp báo cáo xử lý ảnh",
+            "date": "2026-03-12",
+            "time": "14:00",
+            "description": ""
+        }
+    ],
+    "2026-03-14": [
+        {
+            "id": "25899b67-1360-4bff-b736-7dee9cb65ddb",
+            "title": "đi về quê",
+            "date": "2026-03-14",
+            "time": "08:00",
+            "description": ""
+        }
+    ]
+}
